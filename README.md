@@ -64,16 +64,6 @@ The project involves cloud configuration analysis, attack-path modelling and qua
 
 Before my current focus on cloud security and research, I worked on several software and web development projects during my undergraduate studies, primarily using Python, Django and JavaScript.
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jiwan97&show_icons=true&hide_border=true" alt="Jiwan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiwan97&layout=compact&hide_border=true" alt="Jiwan's Most Used Languages" />
-</p>
-
 ---
 
 <p align="center">
